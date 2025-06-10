@@ -1,7 +1,5 @@
 package io.github.sefiraat.networks.utils;
 
-import de.jeff_media.morepersistentdatatypes.DataType;
-
 import io.github.sefiraat.networks.NetworkStorage;
 import io.github.sefiraat.networks.network.NetworkNode;
 import io.github.sefiraat.networks.network.NodeDefinition;
@@ -22,6 +20,8 @@ import org.bukkit.inventory.ItemStack;
 import org.bukkit.inventory.meta.ItemMeta;
 
 import javax.annotation.Nonnull;
+
+import com.jeff_media.morepersistentdatatypes.DataType;
 
 public class NetworkUtils {
 
